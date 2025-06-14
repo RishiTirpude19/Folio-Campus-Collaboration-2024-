@@ -1,0 +1,7 @@
+.card-listc{
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    height: 80vh;
+
+}

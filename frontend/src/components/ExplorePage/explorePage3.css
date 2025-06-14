@@ -1,0 +1,13 @@
+#page3{
+    padding: 150px 60px;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+
+}
+.swiper-wrapper{
+    
+}
+.swiper-slide{
+    scale: 0.8 !important;
+}
