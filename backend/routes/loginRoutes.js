@@ -30,7 +30,7 @@ const msalConfig = {
     auth: {
         clientId: 'f33b06ab-53bf-49cf-b257-dc1188511391',
         authority: 'https://login.microsoftonline.com/850aa78d-94e1-4bc6-9cf3-8c11b530701c',
-        clientSecret: 'F6J8Q~tSsV4.LyzpsYOUnf2-WDwenXqkDFq6NcPY'
+        clientSecret: 'DUa8Q~nLueDDq~X5.8I~Y0G_4LIvvRlKuo6F0dkk'
     }
 };
 
